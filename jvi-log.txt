@@ -1,0 +1,2 @@
+Apr 06, 2023 4:56:43 PM rocks.zipcode.jvi.JVITerminal getTerminalSize
+INFO: Terminal size (25,80)
